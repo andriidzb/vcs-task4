@@ -1,0 +1,3 @@
+[submodule "Hello"]
+	path = Hello
+	url = https://github.com/andriydzb/hello-world-git.git
